@@ -1,4 +1,4 @@
-# Management consulting Company Landing Page
+# Management Consulting Company Landing Page
 
 Here is a sample landing page for management consulting company.
 
